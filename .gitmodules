@@ -1,0 +1,7 @@
+[submodule "yusufnas/themes/hugo-coder"]
+	path = yusufnas/themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git
+[submodule "yusufnas/yyusufnas.github.io"]
+	path = yusufnas/yyusufnas.github.io
+	url = https://github.com/yyusufnas/yyusufnas.github.io
+	branch = main
