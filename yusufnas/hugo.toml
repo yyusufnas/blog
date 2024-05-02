@@ -1,5 +1,5 @@
 baseurl = "http://www.example.com"
-title = "johndoe"
+title = "Yusuf Nas"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
@@ -47,17 +47,17 @@ style = "github-dark"
   name = "Github"
   icon = "fa-brands fa-github fa-2x"
   weight = 1
-  url = "https://github.com/johndoe/"
+  url = "https://github.com/Yusuf Nas/"
 [[params.social]]
   name = "Gitlab"
   icon = "fa-brands fa-gitlab fa-2x"
   weight = 2
-  url = "https://gitlab.com/johndoe/"
+  url = "https://gitlab.com/Yusuf Nas/"
 [[params.social]]
   name = "Twitter"
   icon = "fa-brands fa-x-twitter fa-2x"
   weight = 3
-  url = "https://twitter.com/johndoe/"
+  url = "https://twitter.com/Yusuf Nas/"
 
 # Menu links
 [[menu.main]]
